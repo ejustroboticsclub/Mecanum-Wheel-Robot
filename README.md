@@ -71,12 +71,16 @@ The mecanum wheel robot is a four-wheeled robot that can move in any direction u
 The mecanum wheel robot is a four-wheeled robot that can move in any direction using four mecanum wheels. The robot is controlled using an accelerometer sensor that is attached to a controlling arm. When the controlling arm is moved, the accelerometer sensor measures the inclination of the arm and sends this data to the microcontroller via a Bluetooth module. The microcontroller then processes the data and determines the direction and speed of the mecanum wheels based on the inclination of the controlling arm.
 
 ![image](https://user-images.githubusercontent.com/130171279/233725996-a1796dae-f700-4b50-b326-eb288098d990.png)
+
+
 Here are the subsystems and tasks involved in the system:
 *	Controlling Arm: The controlling arm is the physical interface between the user and the robot. The user moves the controlling arm to control the movement of the robot.
 *	Accelerometer Sensor: The accelerometer sensor measures the inclination of the controlling arm and provides data to the microcontroller.
 *	Microcontroller: The microcontroller is the brain of the robot. It processes the data from the accelerometer sensor and determines the direction and speed of the mecanum wheels.
 *	Bluetooth Module: The Bluetooth module is used for wireless communication between the microcontroller and the controller device. There are two Bluetooth modules on the robot, one for receiving data from the controlling arm and another for sending data to the controller device.
 *	Mecanum Wheels: The mecanum wheels are the key component of the robot's mobility system. They allow the robot to move in any direction and are controlled by the microcontroller.
+
+
 Here are the subtasks involved in the system:
 *	Calibrate the accelerometer sensor: Before using the robot, the accelerometer sensor needs to be calibrated to ensure accurate measurements of the controlling arm's inclination.
 *	Connect the Bluetooth modules: The Bluetooth modules need to be connected to the microcontroller and the controlling device to establish a wireless connection.
