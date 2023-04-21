@@ -31,10 +31,10 @@ The mecanum wheel robot is a four-wheeled robot that can move in any direction u
 --- | --- | --- 
  ..... | Omnidirectional wheels |4
  ..... | 60mm Aluminum plate |2
- Hardware | DC Motors |4
+ ..... | DC Motors |4
  ..... | D-shaped mecanum wheel shafts | 1 
  ..... | Jumper wires |30
- ..... | Bluetooth module | 2 
+ Hardware | Bluetooth module | 2 
  ..... | Lithium Batteries | 3 
  ..... | Battery holder | 1 
  ..... | L298n Motor driver | 2 
