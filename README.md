@@ -96,5 +96,5 @@ The programming part of the Mecanum Wheel Robot is done on the Arduino IDE. Ther
 *	The first program sends the inclination data of the arm to the robot via Bluetooth communication.
 *	The second program receives and processes the data and determines the direction and speed of the mecanum wheels accordingly.
 Note: before using the Bluetooth modules, it is essential to set-up the AT-command mode
-
+ 
 
