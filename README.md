@@ -3,13 +3,11 @@
 The mecanum wheel robot is a four-wheeled robot that can move in any direction using four mecanum wheels. The robot is controlled using an accelerometer sensor that is attached to a controlling arm. When the controlling arm is moved, the accelerometer sensor measures the inclination of the arm and sends this data to the microcontroller via a Bluetooth module. The microcontroller then processes the data and determines the direction and speed of the mecanum wheels based on the inclination of the controlling arm.
 
 ## Prerequisites
-“The required skill for a participant to be a part of the team working on this project. Must be clear as possible in bullet points as shown in the example”
 *	Electric and electronic circuits (intermediate).
 *	Arduino programming (Basic).
 *	Mechanical knowledge (Basic).
 
 ##	Learning Outcomes
-“The skills and knowledge acquired by a participant after completing the project. Must be clear as possible in bullet points as shown in the example”
 *	Understanding of mecanum wheel robot kinematics: Working with a mecanum wheel robot involves understanding the unique kinematics of the wheels, which allows for omnidirectional movement. By working on a mecanum wheel robot, the learner can gain a deeper understanding of how these wheels work and how they can be used to achieve different types of movement.
 
 *	Experience with microcontroller programming: To control the mecanum wheel robot using an accelerometer sensor and Bluetooth module, the learner would need to program a microcontroller to receive sensor data, interpret it, and control the robot's movements. This can provide valuable experience with microcontroller programming and embedded systems.
@@ -46,7 +44,7 @@ The mecanum wheel robot is a four-wheeled robot that can move in any direction u
 
 
 ### Timeline
-“The expected timeline and due dates of the project. Divided into tasks each task with specific duration. Represented in a timeline view”
+
 #### Week 1-2: Project Planning and Research
 *	Define project scope and goals. 
 *	Plan project timeline and milestones.
